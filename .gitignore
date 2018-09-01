@@ -104,3 +104,4 @@ pretrained_model/
 tflog/
 models/
 *.swp
+cifar10.zip
