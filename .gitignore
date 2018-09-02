@@ -105,3 +105,4 @@ tflog/
 models/
 *.swp
 cifar10.zip
+log.pkl
